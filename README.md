@@ -29,7 +29,7 @@
 - 💬 <samp>Pergunte-me sobre Mobile
 - 🤔 <samp>Estou sempre em busca de novos connhecimentos, quer me ensinar algo?
 - ⚡ <samp>Curiosidade: Sou um pouco calado no começo
-- ♟ <samp>Gosto de jogar jogos online
+- ♟ <samp>Gosto de jogos online
 </div>
 
 ##
