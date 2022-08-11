@@ -9,9 +9,6 @@
 <a href="https://www.instagram.com/wolking__/">
   <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://www.youtube.com/channel/UC4a6_ZKdB4tB1F3SW0kCXPA">
-  <img align="left" alt="akd's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
-</a>
 <a href="mailto:ifpiph@gmail.com">
   <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
