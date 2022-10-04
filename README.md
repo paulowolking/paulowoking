@@ -22,7 +22,7 @@
 
 - 👷 <samp>Formação em Análise e Desenvolvimento de Sistemas pelo IFPI
 - 🔭 <samp>Pós-graduação em Desenvolvimento Mobile pela Universidade ESTÁCIO
-- 💼 <samp>Atualmente sou Desenvolvedor Android na Studio Sol
+- 💼 <samp>Atualmente sou Desenvolvedor Android na Sicredi
 - 💬 <samp>Pergunte-me sobre Mobile
 - 🤔 <samp>Estou sempre em busca de novos connhecimentos, quer me ensinar algo?
 - ⚡ <samp>Curiosidade: Sou um pouco calado no começo
